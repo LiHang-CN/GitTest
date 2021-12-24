@@ -10,5 +10,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, World");
         System.out.println("我是程序员A");
+
+        System.out.println("程序员A修改BUG，第二次提交");
     }
 }
