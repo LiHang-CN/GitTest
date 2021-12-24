@@ -9,5 +9,6 @@ package com.lihang.gittest;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, World");
+        System.out.println("我是程序员A");
     }
 }
